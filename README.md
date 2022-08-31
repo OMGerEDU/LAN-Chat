@@ -12,3 +12,6 @@ Afterwards:
 
 - Turn on and keep in the background the Server script.
 - Create as many clients as you wish across the LAN. (as long as there are available ports)
+
+
+![image](https://user-images.githubusercontent.com/73582816/187654217-6468dd82-d59e-4068-89d6-ed7a9b1da094.png)
